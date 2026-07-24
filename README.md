@@ -2,6 +2,7 @@
 
 A Firebase-backed student and fee management system built for a real nursing college.
 
+
 ## Features
 - Student records: add, edit, delete, detailed profile view
 - Fee management: log fees, generate receipts with receipt numbers
